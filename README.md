@@ -1,1 +1,0 @@
-# netnut-home-assignment-react
